@@ -20,7 +20,7 @@ Marketing fegyver, mely egekbe repíti a cpc hirdetésedet
 *   **Function:** AI-driven Short-form video generation for TikTok, YT Shorts, and Reels.
 *   **Key Advantage:** Latency-free rendering (<45s) with native algorithmic synchronization.
 
-#### 2. Landing Infrastructure: [Turbolanding.hu](https://turbolanding.hu)
+#### 2. Landing page generator: [Turbolanding.hu](https://turbolanding.hu)
 *   **Function:** High-velocity deployment of conversion-optimized environments.
 *   **Key Advantage:** Sub-500ms LCP and native LD+JSON/SoftwareApplication schema integration for superior SERP authority.
 
